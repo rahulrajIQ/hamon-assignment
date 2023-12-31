@@ -1,0 +1,5 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger
+156360,1,01-05-2023,Maldives,10,15000
+235623,2,10-06-2023,Capetown,6,50000
+153351,3,09-09-2023,Hawaii,5,100000
+963696,4,10-10-2023,Antarctica,2,2000000
